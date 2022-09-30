@@ -1,16 +1,42 @@
-# bdn_test
+# Test Flutter bdn.id
 
-A new Flutter project.
 
-## Getting Started
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This project is a starting point for a Flutter application.
+Terimakasih atas waktu dan kesempatannya , kali ini saya membuat aplikasi test menggunakan api dari
+https://reqres.in/ yaitu
 
-A few resources to get you started if this is your first Flutter project:
+- https://reqres.in/api/register
+- https://reqres.in/api/users
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## library
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pada pembuatan aplikasi ini saya menggunakan beberapa library seperti
+
+-  cupertino_icons: ^1.0.2
+-  http: ^0.13.5
+-  hexcolor: ^2.0.7
+-  flutter_screenutil: ^5.5.4
+-  flutter_boxicons: ^3.0.0
+-  shimmer: ^2.0.0
+-  shared_preferences: ^2.0.15
+-  flutter_bloc: ^8.1.1
+
+
+## Download Aplikasi
+
+Silahkan Klik untuk download aplikasi ini
+
+| file | Download |
+| ------ | ------ |
+| AppRelesae | [aplikasi_compiled/app-release.apk][PlDb] |
+
+## Hasil
+
+Berikut adalah hasil dari aplikasi saya , saya sertakan screen shoot per page sebagai pendukung :
+![splash_screen](https://raw.githubusercontent.com/alenovan/test/main/screenshoot/splash.jpeg)
+![Register](https://raw.githubusercontent.com/alenovan/test/main/screenshoot/register.jpeg)
+![List User](https://raw.githubusercontent.com/alenovan/test/main/screenshoot/list_user.jpeg)
+![Detail User](https://raw.githubusercontent.com/alenovan/test/main/screenshoot/detail_user.jpeg)
+![Setting](https://raw.githubusercontent.com/alenovan/test/main/screenshoot/setting.jpeg)
+
