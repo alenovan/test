@@ -39,8 +39,8 @@ Berikut adalah hasil dari aplikasi saya , saya sertakan screen shoot per page se
 | file | ss |
 | ------ | ------ |
 | Splash  | <img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/splash.jpeg" width="400" height="400" />|
-| Register            |  mg src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/register.jpeg" width="400" height="400" />|
-| List User           |  mg src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/list_user.jpeg" width="400" height="400" />|
-| Detail User           |  mg src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/detail_user.jpeg" width="400" height="400" />|
-| Setting            |  mg src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/setting.jpeg" width="400" height="400" />|
+| Register            |  <img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/register.jpeg" width="400" height="400" />|
+| List User           |  <img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/list_user.jpeg" width="400" height="400" />|
+| Detail User           |  <img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/detail_user.jpeg" width="400" height="400" />|
+| Setting            | <img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/setting.jpeg" width="400" height="400" />|
 
