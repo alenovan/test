@@ -34,7 +34,7 @@ Silahkan Klik untuk download aplikasi ini
 ## Hasil
 
 Berikut adalah hasil dari aplikasi saya , saya sertakan screen shoot per page sebagai pendukung :
-<img  data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/splash.jpeg" width="200" height="400" />
 ![Register](https://raw.githubusercontent.com/alenovan/test/main/screenshoot/register.jpeg)
 ![List User](https://raw.githubusercontent.com/alenovan/test/main/screenshoot/list_user.jpeg)
 ![Detail User](https://raw.githubusercontent.com/alenovan/test/main/screenshoot/detail_user.jpeg)
