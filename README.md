@@ -34,9 +34,10 @@ Silahkan Klik untuk download aplikasi ini
 ## Hasil
 
 Berikut adalah hasil dari aplikasi saya , saya sertakan screen shoot per page sebagai pendukung :
-<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/splash.jpeg" width="200" height="400" />
-<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/register.jpeg" width="200" height="400" />
-<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/list_user.jpeg" width="200" height="400" />
-<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/detail_user.jpeg" width="200" height="400" />
-<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/setting.jpeg" width="200" height="400" />
+---
+<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/splash.jpeg" width="200" height="600" />
+<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/register.jpeg" width="200" height="600" />
+<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/list_user.jpeg" width="200" height="600" />
+<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/detail_user.jpeg" width="200" height="600" />
+<img src="https://raw.githubusercontent.com/alenovan/test/main/screenshoot/setting.jpeg" width="200" height="600" />
 
