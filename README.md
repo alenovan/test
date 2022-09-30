@@ -29,7 +29,7 @@ Silahkan Klik untuk download aplikasi ini
 
 | file | Download |
 | ------ | ------ |
-| AppRelesae | [aplikasi_compiled/app-release.apk][PlDb] |
+| AppRelesae | [https://github.com/alenovan/test/blob/main/aplikasi_compiled/app-release.apk][PlDb] |
 
 ## Hasil
 
